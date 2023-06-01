@@ -1,2 +1,1 @@
-Hi, my name is Gretchen Hollrah. I'm currently a senior at the University of Oklahoma studying Computer Science.
-If you need to contact me, my email is gretchen.hollrah-1@ou.edu.
+Hi, my name is Gretchen Hollrah. I am a graduate from The University of Oklahoma with a Bachelor's Degree in Computer Science. If you would like to contact me, my email is gretchenhollrah@gmail.com.
